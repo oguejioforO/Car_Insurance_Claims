@@ -17,9 +17,9 @@ Description: The dataset includes customer information such as birthdate, gender
 ### Tools
 - Python (pandas) – Data cleaning and initial exploration
 
-- Power BI – Dashboard creation and visualization
+- Excel – Quick data validation [Download here](https://docs.google.com/spreadsheets/d/10J4LRwRY9WbXMomV_Xz2nACQ5iOzyCGTtYKg1QiRvDs/edit?usp=sharing)
 
-- Excel – Quick data validation and pivot table exploration (optional)
+- Power BI – Dashboard creation and visualization
 
 ### Data Cleaning
 Performed using Python (Power_BI):
