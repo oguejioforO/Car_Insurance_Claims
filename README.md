@@ -6,7 +6,6 @@ This data analysis project explores patterns in car insurance claims to uncover 
 Using a combination of Python for data cleaning and Power BI for visualization, I examine the relationship between customer demographics, 
 car attributes, and claim behavior to support data-driven decision-making for insurance businesses.
 
-![Car_Insurance](https://github.com/user-attachments/assets/34111d41-3056-4dd5-868e-1e1a0c43e24b)
 
 ### Data Source
 
